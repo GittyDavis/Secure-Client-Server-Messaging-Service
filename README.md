@@ -8,8 +8,7 @@ This project implements a secure client-server messaging service in Python, util
 
 Authors:
 
-Tova Gitel Davis
-Tehila Slater
+Tova Gitel Davis and Tehila Slater
 
 Getting Started:
 
