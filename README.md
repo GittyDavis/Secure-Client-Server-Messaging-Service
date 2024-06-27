@@ -6,26 +6,28 @@ Overview
 This project implements a secure client-server messaging service in Python, utilizing the Kerberos protocol for robust authentication. The system includes a Key Distribution Center (KDC) server and emphasizes strict adherence to security best practices.
 
 Authors
+
 Tova Gitel Davis
 Tehila Slater
+
 Getting Started
+
 Running the Servers and Client
+
 Authentication Server:
 
 To start the authentication server, run the following command:
-bash
-Copy code
+
 python AuthenticationServer.py
+
 Message Server:
 
 To start the message server, run the following command:
-bash
-Copy code
+
 python MessageServer.py
+
 Client:
 
-To start the client, run the following command:
-bash
-Copy code
 python Client.py
+
 Good Luck!
